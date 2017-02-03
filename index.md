@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Anurag Pande
 
 You can use the [editor on GitHub](https://github.com/anurag1212/anurag.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
